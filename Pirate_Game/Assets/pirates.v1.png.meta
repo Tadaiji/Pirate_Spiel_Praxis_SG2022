@@ -174,6 +174,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1336,6 +1337,57 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      pirates.v1_40: 612374220010198476
+      pirates.v1_12: -6493204981501882392
+      pirates.v1_5: 6009461221880713867
+      pirates.v1_32: -3002491426695601186
+      pirates.v1_28: 8953387463507809172
+      pirates.v1_49: 1315241498567030794
+      pirates.v1_46: -5452405654162365878
+      pirates.v1_44: 3210518241033549860
+      pirates.v1_0: -7592339885703748262
+      pirates.v1_38: -5210310206611325465
+      pirates.v1_11: 1194138603636346681
+      pirates.v1_42: -7393855558093619197
+      pirates.v1_31: 2089059397631630653
+      pirates.v1_1: 5224818089109169919
+      pirates.v1_18: -5123488207891745561
+      pirates.v1_13: 4049236084771520291
+      pirates.v1_20: -6172131441027606025
+      pirates.v1_3: -1488780289485852155
+      pirates.v1_4: -4363790608923331317
+      pirates.v1_14: -1461350473138684711
+      pirates.v1_15: -5015716478132993854
+      pirates.v1_36: -3346095474585787850
+      pirates.v1_33: 5349065213106345705
+      pirates.v1_37: -4664532573206256633
+      pirates.v1_47: 4089314719852245832
+      pirates.v1_39: -4365844162670614837
+      pirates.v1_7: 3394635568699463761
+      pirates.v1_17: -5622134376855288190
+      pirates.v1_8: -987100272353771883
+      pirates.v1_10: 7711166457065705898
+      pirates.v1_34: -2889368442026478309
+      pirates.v1_45: -8739888845347766928
+      pirates.v1_2: -2503110670891625154
+      pirates.v1_35: -7093519811213902871
+      pirates.v1_26: -2773384917605794594
+      pirates.v1_30: -8898677022392933287
+      pirates.v1_24: -6810636469243740729
+      pirates.v1_19: -2434911647185088362
+      pirates.v1_16: -8416465863901072770
+      pirates.v1_43: 264719163362081766
+      pirates.v1_29: 5184050304035737884
+      pirates.v1_23: -54457487614877524
+      pirates.v1_22: -3907487428849891446
+      pirates.v1_27: 9196880826025753110
+      pirates.v1_6: -7472417535336545414
+      pirates.v1_25: 5601935346918529453
+      pirates.v1_21: -6665674081210123709
+      pirates.v1_41: 2045615356115084756
+      pirates.v1_9: -1634460994587659519
+      pirates.v1_48: 7882747988865806591
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
